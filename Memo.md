@@ -28,3 +28,9 @@ https://docs.swift.org/swift-book/documentation/the-swift-programming-language/g
 
 ・Swift 開発入門  
 https://swift-ios.keicode.com/lang/enum.php
+
+・git 操作 create remote branch  
+https://qiita.com/shungo_m/items/4bbcbcbd3d7aea40b21e
+
+・Xcode X gitHub リモートリポジトリ作成時のエラーについて  
+https://github.com/orgs/community/discussions/36441
