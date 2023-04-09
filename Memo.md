@@ -24,3 +24,6 @@ fruits = []
 occupations = [:]
 
 ```
+
+### References
+https://swift-ios.keicode.com/lang/enum.php
