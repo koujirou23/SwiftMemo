@@ -23,8 +23,8 @@ occupations = [:]
 ```
 
 ### References
-・A Swift Tour
+・A Swift Tour  
 https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/
 
-・Swift 開発入門
+・Swift 開発入門  
 https://swift-ios.keicode.com/lang/enum.php
